@@ -31,6 +31,6 @@ Java-Version: _11_
 
 9. git push -u origin master
 
-10. heroku apps:create --region=eu gradle-restservice
+10. heroku apps:create --region=eu github-restservice
 
 11. git push heroku master
